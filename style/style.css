@@ -40,6 +40,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 }
 #hero .hero-contain{
     width: 998px;
@@ -53,10 +54,31 @@
 #hero .title{
     font-size:48px;
     font-weight: bold;
+    color:#0D1321;
+    text-align: center;
 }
+#hero .description{
+    font-size:16px;
+    font-weight: 400;
+    color:#0D1321;
+    text-align: center;
+    width: 852px;
+    height: 52px;
+    margin:0 auto;
+}
+.btn-container{
+    text-align: center;
+}
+.btn{
+    padding:14px 22px 14px 22px;
+    background-color: #000;
+    color:#fff;
+    font-size:20px;
+    font-weight: 400;
+    border-radius: 8px;
 
-
-
+}
+/*  */
 
 
 
