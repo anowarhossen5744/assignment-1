@@ -40,7 +40,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
 }
 #hero .hero-contain{
     width: 998px;
@@ -78,12 +78,77 @@
     border-radius: 8px;
 
 }
+/* contain section style */
+.contain{
+    background-color:hsl(0, 0%, 97%);
+    width:1140px;
+    height: 1393px;
+    margin:0 auto;
+    padding:80px 97px;
+    border-radius: 16px;
+
+}
+.container{
+   
+}
+.container-area{
+    width: 852px;
+    height: 113px;
+    margin:0 auto;
+}
+.container .container-title{
+    font-size:32px;
+    font-weight: bold;
+    color:#0D1321;
+    text-align: center;
+}
+.container .title-description{
+    font-size:16px;
+    font-weight: 400;
+    color:#0D1321;
+    text-align: center;
+}
 /*  */
+.sub-contain{
+    display: flex;
+    justify-content: space-between;
+    /* gap:24px; */
+    width: 946px;
+    height: 336px;
+    padding:30px;
+    margin:0 auto;
+}
+.contain-area{
+    background-color: #fff;
+    border-radius: 16px;
+    width: 477px;
+    height: 219px;
+    padding:25px;
+
+}
+.sub-contain .contain-area-title{
+    font-size:24px;
+    font-weight:bold;
+    color:#0D1321;
+}
+.sub-contain .contain-area-description{
+    font-size:16px;
+    font-weight: 400;
+    color:#0D1321;
+}
 
 
+.sub-contain .image-area{
+    width: 259px;
+    height: 217px;
+}
 
-
-
-
-
+.sub-contain .btn-1{
+    background-color: #fff;
+    padding: 14px 20px;
+    font-size:20px;
+    font-weight: 400px;
+    color:#0D1321;
+}
+/* ------------------------ */
 
