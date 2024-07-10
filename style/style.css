@@ -150,5 +150,42 @@
     font-weight: 400px;
     color:#0D1321;
 }
-/* ------------------------ */
+/* inspiration style */
+.inspiration{
+    text-align: center;
+}
+.title{
+    width: 852px;
+    height: 52px;
+    margin:0 auto;
+    margin-bottom: 80px;
+}
+.title .ins-title{
+    font-size: 32px;
+    font-weight: bold;
+    color:#0D1321;
+    text-align: center;
+}
+.title .ins-title-description{
+    font-size: 16px;
+    font-weight: 400;
+    color:#0D1321;
+    text-align: center;
+}
+
+
+.ifreame{
+    text-align: center;
+    padding:32px;
+}
+.border-radius{
+    border-radius: 16px;
+}
+/* inspiration style end */
+
+
+
+
+
+
 
