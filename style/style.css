@@ -3,3 +3,65 @@
 
 
 
+
+.azeret-mono-normal{
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+/*  */
+.greeting{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:35px 100px 0 100px;
+}
+.greeting-title .title{
+    font-size:28px;
+    font-weight: bold;
+    color:#0D1321;
+    cursor: pointer;
+}
+.download-resume .download a{
+    font-size:20px;
+    font-weight: 400;
+    color:#0D1321;
+    text-decoration: none;
+
+}
+/* hero section style */
+#hero{
+    height: 652px;
+    background-image: url('../images/Hero-bg.png');
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#hero .hero-contain{
+    width: 998px;
+    height: 581px;
+}
+#hero .hero-img{
+    width: 240px;
+    height: 240px;
+    margin:0 auto;
+}
+#hero .title{
+    font-size:48px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
